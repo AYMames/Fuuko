@@ -12,6 +12,14 @@
       "groups": {
         "": "https://imgur.com/a/tigB1E9"
       }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1688832005",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1CMMoB4"
+      }
     }
   }
 }
